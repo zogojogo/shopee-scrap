@@ -1,0 +1,2342 @@
+[
+    {
+        "catid": 11044258,
+        "name": "Electronics",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11044352,
+        "name": "Console Machines",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044362,
+        "name": "Console Accessories",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044363,
+        "name": "Casting Devices",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044259,
+        "name": "Foot Baths & Spas",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044260,
+        "name": "Sewing Machines & Accessories",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044261,
+        "name": "Irons & Steamers",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044262,
+        "name": "Air Treatment",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044266,
+        "name": "Vacuum Cleaners & Floor Care Appliances",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044271,
+        "name": "Telephones",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044276,
+        "name": "Washing Machines & Dryers",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044280,
+        "name": "Water Heaters",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044281,
+        "name": "Cooling",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044286,
+        "name": "Futon & Shoe Dryers",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044287,
+        "name": "Heaters",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044288,
+        "name": "TVs & Accessories",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044294,
+        "name": "Kitchen Appliances",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044550,
+        "name": "Lighting",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044567,
+        "name": "Security Cameras & Systems",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044573,
+        "name": "Video Games",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044319,
+        "name": "Electrical Circuitry & Parts",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044328,
+        "name": "Batteries",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044329,
+        "name": "E-Cigarettes",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044335,
+        "name": "Remote Controls",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044337,
+        "name": "Walkie Talkies",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044338,
+        "name": "Media Players",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044344,
+        "name": "Home Audio & Speakers",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11044336,
+        "name": "Other Electronics",
+        "parent_catid": 11044258,
+        "level": 2
+    },
+    {
+        "catid": 11043451,
+        "name": "Food & Beverages",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11043453,
+        "name": "Snacks",
+        "parent_catid": 11043451,
+        "level": 2
+    },
+    {
+        "catid": 11043467,
+        "name": "Food Staples",
+        "parent_catid": 11043451,
+        "level": 2
+    },
+    {
+        "catid": 11043496,
+        "name": "Breakfast Cereals & Spread",
+        "parent_catid": 11043451,
+        "level": 2
+    },
+    {
+        "catid": 11043502,
+        "name": "Beverages",
+        "parent_catid": 11043451,
+        "level": 2
+    },
+    {
+        "catid": 11043517,
+        "name": "Dairy & Eggs",
+        "parent_catid": 11043451,
+        "level": 2
+    },
+    {
+        "catid": 11043529,
+        "name": "Fresh & Frozen Food",
+        "parent_catid": 11043451,
+        "level": 2
+    },
+    {
+        "catid": 11043544,
+        "name": "Bakery",
+        "parent_catid": 11043451,
+        "level": 2
+    },
+    {
+        "catid": 11043549,
+        "name": "Alcoholic Beverages",
+        "parent_catid": 11043451,
+        "level": 2
+    },
+    {
+        "catid": 11043555,
+        "name": "Gift Set & Hampers",
+        "parent_catid": 11043451,
+        "level": 2
+    },
+    {
+        "catid": 11043557,
+        "name": "Canned Food",
+        "parent_catid": 11043451,
+        "level": 2
+    },
+    {
+        "catid": 11043564,
+        "name": "Convenience / Ready-to-eat",
+        "parent_catid": 11043451,
+        "level": 2
+    },
+    {
+        "catid": 11043556,
+        "name": "Other Food & Beverages",
+        "parent_catid": 11043451,
+        "level": 2
+    },
+    {
+        "catid": 11044364,
+        "name": "Computer & Accessories",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11044365,
+        "name": "Desktop Computers",
+        "parent_catid": 11044364,
+        "level": 2
+    },
+    {
+        "catid": 11044371,
+        "name": "Monitors",
+        "parent_catid": 11044364,
+        "level": 2
+    },
+    {
+        "catid": 11044372,
+        "name": "Desktop & Laptop Components",
+        "parent_catid": 11044364,
+        "level": 2
+    },
+    {
+        "catid": 11044386,
+        "name": "Data Storage",
+        "parent_catid": 11044364,
+        "level": 2
+    },
+    {
+        "catid": 11044394,
+        "name": "Network Components",
+        "parent_catid": 11044364,
+        "level": 2
+    },
+    {
+        "catid": 11044405,
+        "name": "Softwares",
+        "parent_catid": 11044364,
+        "level": 2
+    },
+    {
+        "catid": 11044410,
+        "name": "Office Equipment",
+        "parent_catid": 11044364,
+        "level": 2
+    },
+    {
+        "catid": 11044416,
+        "name": "Printers & Scanners",
+        "parent_catid": 11044364,
+        "level": 2
+    },
+    {
+        "catid": 11044422,
+        "name": "Peripherals & Accessories",
+        "parent_catid": 11044364,
+        "level": 2
+    },
+    {
+        "catid": 11044434,
+        "name": "Keyboards & Mouse",
+        "parent_catid": 11044364,
+        "level": 2
+    },
+    {
+        "catid": 11044440,
+        "name": "Laptops",
+        "parent_catid": 11044364,
+        "level": 2
+    },
+    {
+        "catid": 11044445,
+        "name": "Gaming",
+        "parent_catid": 11044364,
+        "level": 2
+    },
+    {
+        "catid": 11044451,
+        "name": "Computer Audio",
+        "parent_catid": 11044364,
+        "level": 2
+    },
+    {
+        "catid": 11044584,
+        "name": "Projectors & Accessories",
+        "parent_catid": 11044364,
+        "level": 2
+    },
+    {
+        "catid": 11044457,
+        "name": "Other Computer & Accessories",
+        "parent_catid": 11044364,
+        "level": 2
+    },
+    {
+        "catid": 11043145,
+        "name": "Beauty & Care",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11043146,
+        "name": "Bath & Body Care",
+        "parent_catid": 11043145,
+        "level": 2
+    },
+    {
+        "catid": 11043159,
+        "name": "Hand Care",
+        "parent_catid": 11043145,
+        "level": 2
+    },
+    {
+        "catid": 11043164,
+        "name": "Foot Care",
+        "parent_catid": 11043145,
+        "level": 2
+    },
+    {
+        "catid": 11043169,
+        "name": "Nail Care",
+        "parent_catid": 11043145,
+        "level": 2
+    },
+    {
+        "catid": 11043178,
+        "name": "Hair Care",
+        "parent_catid": 11043145,
+        "level": 2
+    },
+    {
+        "catid": 11043185,
+        "name": "Men's Care",
+        "parent_catid": 11043145,
+        "level": 2
+    },
+    {
+        "catid": 11043198,
+        "name": "Perfumes & Fragrances",
+        "parent_catid": 11043145,
+        "level": 2
+    },
+    {
+        "catid": 11043202,
+        "name": "Face Makeup",
+        "parent_catid": 11043145,
+        "level": 2
+    },
+    {
+        "catid": 11043212,
+        "name": "Eyes Makeup",
+        "parent_catid": 11043145,
+        "level": 2
+    },
+    {
+        "catid": 11043219,
+        "name": "Lips Cosmetics",
+        "parent_catid": 11043145,
+        "level": 2
+    },
+    {
+        "catid": 11043226,
+        "name": "Makeup Removers",
+        "parent_catid": 11043145,
+        "level": 2
+    },
+    {
+        "catid": 11043227,
+        "name": "Makeup Accessories",
+        "parent_catid": 11043145,
+        "level": 2
+    },
+    {
+        "catid": 11043240,
+        "name": "Facial Care Tools",
+        "parent_catid": 11043145,
+        "level": 2
+    },
+    {
+        "catid": 11043245,
+        "name": "Body Slimming Tools",
+        "parent_catid": 11043145,
+        "level": 2
+    },
+    {
+        "catid": 11043246,
+        "name": "Hair Removal Tools",
+        "parent_catid": 11043145,
+        "level": 2
+    },
+    {
+        "catid": 11043247,
+        "name": "Hair Tools",
+        "parent_catid": 11043145,
+        "level": 2
+    },
+    {
+        "catid": 11043253,
+        "name": "Skincare",
+        "parent_catid": 11043145,
+        "level": 2
+    },
+    {
+        "catid": 11043267,
+        "name": "Eye Treatment",
+        "parent_catid": 11043145,
+        "level": 2
+    },
+    {
+        "catid": 11043272,
+        "name": "Lip Treatment",
+        "parent_catid": 11043145,
+        "level": 2
+    },
+    {
+        "catid": 11043277,
+        "name": "Beauty Sets & Packages",
+        "parent_catid": 11043145,
+        "level": 2
+    },
+    {
+        "catid": 11043278,
+        "name": "Other Beauty & Care",
+        "parent_catid": 11043145,
+        "level": 2
+    },
+    {
+        "catid": 11044458,
+        "name": "Mobile & Accessories",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11044459,
+        "name": "Sim Cards",
+        "parent_catid": 11044458,
+        "level": 2
+    },
+    {
+        "catid": 11044460,
+        "name": "Tablets",
+        "parent_catid": 11044458,
+        "level": 2
+    },
+    {
+        "catid": 11044476,
+        "name": "Mobile Phones",
+        "parent_catid": 11044458,
+        "level": 2
+    },
+    {
+        "catid": 11044504,
+        "name": "Wearable Devices",
+        "parent_catid": 11044458,
+        "level": 2
+    },
+    {
+        "catid": 11044507,
+        "name": "VR Devices",
+        "parent_catid": 11044458,
+        "level": 2
+    },
+    {
+        "catid": 11044508,
+        "name": "Selfie Accessories",
+        "parent_catid": 11044458,
+        "level": 2
+    },
+    {
+        "catid": 11044514,
+        "name": "Mobile & Tablet Accessories",
+        "parent_catid": 11044458,
+        "level": 2
+    },
+    {
+        "catid": 11044523,
+        "name": "Memory Cards",
+        "parent_catid": 11044458,
+        "level": 2
+    },
+    {
+        "catid": 11044527,
+        "name": "Cables, Chargers & Converters",
+        "parent_catid": 11044458,
+        "level": 2
+    },
+    {
+        "catid": 11044534,
+        "name": "Powerbanks & Batteries",
+        "parent_catid": 11044458,
+        "level": 2
+    },
+    {
+        "catid": 11044539,
+        "name": "Casing & Protectors",
+        "parent_catid": 11044458,
+        "level": 2
+    },
+    {
+        "catid": 11044544,
+        "name": "Mobile Audio",
+        "parent_catid": 11044458,
+        "level": 2
+    },
+    {
+        "catid": 11044549,
+        "name": "Other Mobile & Accessories",
+        "parent_catid": 11044458,
+        "level": 2
+    },
+    {
+        "catid": 11043778,
+        "name": "Home & Living",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11043849,
+        "name": "Home Improvement",
+        "parent_catid": 11043778,
+        "level": 2
+    },
+    {
+        "catid": 11043863,
+        "name": "Tools",
+        "parent_catid": 11043778,
+        "level": 2
+    },
+    {
+        "catid": 11043875,
+        "name": "Home Care Tools",
+        "parent_catid": 11043778,
+        "level": 2
+    },
+    {
+        "catid": 11043886,
+        "name": "Home Care Supplies",
+        "parent_catid": 11043778,
+        "level": 2
+    },
+    {
+        "catid": 11043895,
+        "name": "Kitchen Utensils & Accessories",
+        "parent_catid": 11043778,
+        "level": 2
+    },
+    {
+        "catid": 11043909,
+        "name": "Cookware",
+        "parent_catid": 11043778,
+        "level": 2
+    },
+    {
+        "catid": 11043922,
+        "name": "Dinnerware",
+        "parent_catid": 11043778,
+        "level": 2
+    },
+    {
+        "catid": 11043934,
+        "name": "Safety & Security",
+        "parent_catid": 11043778,
+        "level": 2
+    },
+    {
+        "catid": 11043939,
+        "name": "Home Organizers",
+        "parent_catid": 11043778,
+        "level": 2
+    },
+    {
+        "catid": 11043950,
+        "name": "Religious Supplies",
+        "parent_catid": 11043778,
+        "level": 2
+    },
+    {
+        "catid": 11043952,
+        "name": "Umbrella",
+        "parent_catid": 11043778,
+        "level": 2
+    },
+    {
+        "catid": 11043779,
+        "name": "Home Fragrance & Aromatherapy",
+        "parent_catid": 11043778,
+        "level": 2
+    },
+    {
+        "catid": 11043783,
+        "name": "Bathrooms",
+        "parent_catid": 11043778,
+        "level": 2
+    },
+    {
+        "catid": 11043797,
+        "name": "Bedding",
+        "parent_catid": 11043778,
+        "level": 2
+    },
+    {
+        "catid": 11043807,
+        "name": "Decoration",
+        "parent_catid": 11043778,
+        "level": 2
+    },
+    {
+        "catid": 11043820,
+        "name": "Furniture",
+        "parent_catid": 11043778,
+        "level": 2
+    },
+    {
+        "catid": 11043838,
+        "name": "Gardening",
+        "parent_catid": 11043778,
+        "level": 2
+    },
+    {
+        "catid": 11043951,
+        "name": "Other Home & Living",
+        "parent_catid": 11043778,
+        "level": 2
+    },
+    {
+        "catid": 11042849,
+        "name": "Men Clothes",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11042850,
+        "name": "Denim",
+        "parent_catid": 11042849,
+        "level": 2
+    },
+    {
+        "catid": 11042855,
+        "name": "Hoodies & Sweatshirts",
+        "parent_catid": 11042849,
+        "level": 2
+    },
+    {
+        "catid": 11042859,
+        "name": "Sweaters & Cardigans",
+        "parent_catid": 11042849,
+        "level": 2
+    },
+    {
+        "catid": 11042860,
+        "name": "Jackets, Coats & Vests",
+        "parent_catid": 11042849,
+        "level": 2
+    },
+    {
+        "catid": 11042865,
+        "name": "Suits",
+        "parent_catid": 11042849,
+        "level": 2
+    },
+    {
+        "catid": 11042871,
+        "name": "Pants",
+        "parent_catid": 11042849,
+        "level": 2
+    },
+    {
+        "catid": 11042876,
+        "name": "Shorts",
+        "parent_catid": 11042849,
+        "level": 2
+    },
+    {
+        "catid": 11042877,
+        "name": "Tops",
+        "parent_catid": 11042849,
+        "level": 2
+    },
+    {
+        "catid": 11042883,
+        "name": "Batik",
+        "parent_catid": 11042849,
+        "level": 2
+    },
+    {
+        "catid": 11042885,
+        "name": "Innerwear & Underwear",
+        "parent_catid": 11042849,
+        "level": 2
+    },
+    {
+        "catid": 11042890,
+        "name": "Sleepwear",
+        "parent_catid": 11042849,
+        "level": 2
+    },
+    {
+        "catid": 11042891,
+        "name": "Sets",
+        "parent_catid": 11042849,
+        "level": 2
+    },
+    {
+        "catid": 11042892,
+        "name": "Traditional Wear",
+        "parent_catid": 11042849,
+        "level": 2
+    },
+    {
+        "catid": 11042897,
+        "name": "Costumes",
+        "parent_catid": 11042849,
+        "level": 2
+    },
+    {
+        "catid": 11042898,
+        "name": "Occupational Attire",
+        "parent_catid": 11042849,
+        "level": 2
+    },
+    {
+        "catid": 11042899,
+        "name": "Other Men Clothes",
+        "parent_catid": 11042849,
+        "level": 2
+    },
+    {
+        "catid": 11042745,
+        "name": "Women Clothes",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11042820,
+        "name": "Traditional Wear",
+        "parent_catid": 11042745,
+        "level": 2
+    },
+    {
+        "catid": 11042826,
+        "name": "Costumes",
+        "parent_catid": 11042745,
+        "level": 2
+    },
+    {
+        "catid": 11042828,
+        "name": "Fabric",
+        "parent_catid": 11042745,
+        "level": 2
+    },
+    {
+        "catid": 11042840,
+        "name": "Batik",
+        "parent_catid": 11042745,
+        "level": 2
+    },
+    {
+        "catid": 11043127,
+        "name": "Denim",
+        "parent_catid": 11042745,
+        "level": 2
+    },
+    {
+        "catid": 11042746,
+        "name": "Tops",
+        "parent_catid": 11042745,
+        "level": 2
+    },
+    {
+        "catid": 11042754,
+        "name": "Pants & Leggings",
+        "parent_catid": 11042745,
+        "level": 2
+    },
+    {
+        "catid": 11042762,
+        "name": "Shorts",
+        "parent_catid": 11042745,
+        "level": 2
+    },
+    {
+        "catid": 11042766,
+        "name": "Skirts",
+        "parent_catid": 11042745,
+        "level": 2
+    },
+    {
+        "catid": 11042770,
+        "name": "Dresses",
+        "parent_catid": 11042745,
+        "level": 2
+    },
+    {
+        "catid": 11042774,
+        "name": "Wedding Dress",
+        "parent_catid": 11042745,
+        "level": 2
+    },
+    {
+        "catid": 11042775,
+        "name": "Jumpsuits, Playsuits & Overalls",
+        "parent_catid": 11042745,
+        "level": 2
+    },
+    {
+        "catid": 11042780,
+        "name": "Jackets, Coats & Vests",
+        "parent_catid": 11042745,
+        "level": 2
+    },
+    {
+        "catid": 11042787,
+        "name": "Sweaters & Cardigans",
+        "parent_catid": 11042745,
+        "level": 2
+    },
+    {
+        "catid": 11042788,
+        "name": "Hoodies & Sweatshirts",
+        "parent_catid": 11042745,
+        "level": 2
+    },
+    {
+        "catid": 11042792,
+        "name": "Sets",
+        "parent_catid": 11042745,
+        "level": 2
+    },
+    {
+        "catid": 11042797,
+        "name": "Lingerie & Underwear",
+        "parent_catid": 11042745,
+        "level": 2
+    },
+    {
+        "catid": 11042807,
+        "name": "Sleepwear & Pajamas",
+        "parent_catid": 11042745,
+        "level": 2
+    },
+    {
+        "catid": 11042812,
+        "name": "Maternity Wear",
+        "parent_catid": 11042745,
+        "level": 2
+    },
+    {
+        "catid": 11042827,
+        "name": "Other Women Clothes",
+        "parent_catid": 11042745,
+        "level": 2
+    },
+    {
+        "catid": 11042985,
+        "name": "Men Shoes",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11042991,
+        "name": "Sneakers",
+        "parent_catid": 11042985,
+        "level": 2
+    },
+    {
+        "catid": 11043009,
+        "name": "Socks",
+        "parent_catid": 11042985,
+        "level": 2
+    },
+    {
+        "catid": 11042996,
+        "name": "Sandals & Flip Flops",
+        "parent_catid": 11042985,
+        "level": 2
+    },
+    {
+        "catid": 11043002,
+        "name": "Shoe Care & Accessories",
+        "parent_catid": 11042985,
+        "level": 2
+    },
+    {
+        "catid": 11042986,
+        "name": "Boots",
+        "parent_catid": 11042985,
+        "level": 2
+    },
+    {
+        "catid": 11043008,
+        "name": "Shoe Laces",
+        "parent_catid": 11042985,
+        "level": 2
+    },
+    {
+        "catid": 11042992,
+        "name": "Slip Ons & Mules",
+        "parent_catid": 11042985,
+        "level": 2
+    },
+    {
+        "catid": 11043010,
+        "name": "Other Men Shoes",
+        "parent_catid": 11042985,
+        "level": 2
+    },
+    {
+        "catid": 11042993,
+        "name": "Formal Shoes",
+        "parent_catid": 11042985,
+        "level": 2
+    },
+    {
+        "catid": 11042684,
+        "name": "Muslim Fashion",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11042685,
+        "name": "Veil",
+        "parent_catid": 11042684,
+        "level": 2
+    },
+    {
+        "catid": 11042693,
+        "name": "Muslim Accessories",
+        "parent_catid": 11042684,
+        "level": 2
+    },
+    {
+        "catid": 11042697,
+        "name": "Women Muslim Top",
+        "parent_catid": 11042684,
+        "level": 2
+    },
+    {
+        "catid": 11042702,
+        "name": "Muslim Dress",
+        "parent_catid": 11042684,
+        "level": 2
+    },
+    {
+        "catid": 11042712,
+        "name": "Women Muslim Bottom",
+        "parent_catid": 11042684,
+        "level": 2
+    },
+    {
+        "catid": 11042718,
+        "name": "Prayer Attire & Equipment",
+        "parent_catid": 11042684,
+        "level": 2
+    },
+    {
+        "catid": 11042725,
+        "name": "Men Muslim Wear",
+        "parent_catid": 11042684,
+        "level": 2
+    },
+    {
+        "catid": 11042732,
+        "name": "Kid Muslim Wear",
+        "parent_catid": 11042684,
+        "level": 2
+    },
+    {
+        "catid": 11042737,
+        "name": "Outerwear",
+        "parent_catid": 11042684,
+        "level": 2
+    },
+    {
+        "catid": 11042743,
+        "name": "Set",
+        "parent_catid": 11042684,
+        "level": 2
+    },
+    {
+        "catid": 11042744,
+        "name": "Other Muslim Fashion",
+        "parent_catid": 11042684,
+        "level": 2
+    },
+    {
+        "catid": 11043011,
+        "name": "Men Bags",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11043022,
+        "name": "Crossbody & Shoulder Bags",
+        "parent_catid": 11043011,
+        "level": 2
+    },
+    {
+        "catid": 11043023,
+        "name": "Wallets",
+        "parent_catid": 11043011,
+        "level": 2
+    },
+    {
+        "catid": 11043012,
+        "name": "Backpacks",
+        "parent_catid": 11043011,
+        "level": 2
+    },
+    {
+        "catid": 11043021,
+        "name": "Waist Bags & Chest Bags",
+        "parent_catid": 11043011,
+        "level": 2
+    },
+    {
+        "catid": 11043013,
+        "name": "Laptop Bags",
+        "parent_catid": 11043011,
+        "level": 2
+    },
+    {
+        "catid": 11043020,
+        "name": "Clutches",
+        "parent_catid": 11043011,
+        "level": 2
+    },
+    {
+        "catid": 11043018,
+        "name": "Tote Bags",
+        "parent_catid": 11043011,
+        "level": 2
+    },
+    {
+        "catid": 11043019,
+        "name": "Briefcases",
+        "parent_catid": 11043011,
+        "level": 2
+    },
+    {
+        "catid": 11043030,
+        "name": "Other Men Bags",
+        "parent_catid": 11043011,
+        "level": 2
+    },
+    {
+        "catid": 11043031,
+        "name": "Baby & Kids Fashion",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11043032,
+        "name": "Baby Clothes",
+        "parent_catid": 11043031,
+        "level": 2
+    },
+    {
+        "catid": 11043043,
+        "name": "Baby Mittens & Footwear",
+        "parent_catid": 11043031,
+        "level": 2
+    },
+    {
+        "catid": 11043077,
+        "name": "Boy Clothes",
+        "parent_catid": 11043031,
+        "level": 2
+    },
+    {
+        "catid": 11043092,
+        "name": "Girl Clothes",
+        "parent_catid": 11043031,
+        "level": 2
+    },
+    {
+        "catid": 11043110,
+        "name": "Boy Shoes",
+        "parent_catid": 11043031,
+        "level": 2
+    },
+    {
+        "catid": 11043118,
+        "name": "Girl Shoes",
+        "parent_catid": 11043031,
+        "level": 2
+    },
+    {
+        "catid": 11043044,
+        "name": "Boy Bags",
+        "parent_catid": 11043031,
+        "level": 2
+    },
+    {
+        "catid": 11043050,
+        "name": "Girl Bags",
+        "parent_catid": 11043031,
+        "level": 2
+    },
+    {
+        "catid": 11043056,
+        "name": "Kids Accessories",
+        "parent_catid": 11043031,
+        "level": 2
+    },
+    {
+        "catid": 11043067,
+        "name": "Rain Gear",
+        "parent_catid": 11043031,
+        "level": 2
+    },
+    {
+        "catid": 11043071,
+        "name": "Jewelry",
+        "parent_catid": 11043031,
+        "level": 2
+    },
+    {
+        "catid": 11043126,
+        "name": "Other Baby & Kids Fashion",
+        "parent_catid": 11043031,
+        "level": 2
+    },
+    {
+        "catid": 11042921,
+        "name": "Fashion Accessories",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11042922,
+        "name": "Rings",
+        "parent_catid": 11042921,
+        "level": 2
+    },
+    {
+        "catid": 11042923,
+        "name": "Earrings",
+        "parent_catid": 11042921,
+        "level": 2
+    },
+    {
+        "catid": 11042924,
+        "name": "Scarves & Shawls",
+        "parent_catid": 11042921,
+        "level": 2
+    },
+    {
+        "catid": 11042925,
+        "name": "Gloves",
+        "parent_catid": 11042921,
+        "level": 2
+    },
+    {
+        "catid": 11042930,
+        "name": "Hair Accessories",
+        "parent_catid": 11042921,
+        "level": 2
+    },
+    {
+        "catid": 11042937,
+        "name": "Bracelets & Bangles",
+        "parent_catid": 11042921,
+        "level": 2
+    },
+    {
+        "catid": 11042938,
+        "name": "Anklets",
+        "parent_catid": 11042921,
+        "level": 2
+    },
+    {
+        "catid": 11042939,
+        "name": "Hats & Caps",
+        "parent_catid": 11042921,
+        "level": 2
+    },
+    {
+        "catid": 11042947,
+        "name": "Necklaces",
+        "parent_catid": 11042921,
+        "level": 2
+    },
+    {
+        "catid": 11042952,
+        "name": "Eyewear",
+        "parent_catid": 11042921,
+        "level": 2
+    },
+    {
+        "catid": 11053196,
+        "name": "Contact Lens & Accessories",
+        "parent_catid": 11042921,
+        "level": 2
+    },
+    {
+        "catid": 11042957,
+        "name": "Investment Precious Metals",
+        "parent_catid": 11042921,
+        "level": 2
+    },
+    {
+        "catid": 11042963,
+        "name": "Belts",
+        "parent_catid": 11042921,
+        "level": 2
+    },
+    {
+        "catid": 11042967,
+        "name": "Neckties, Bow Ties & Cravats",
+        "parent_catid": 11042921,
+        "level": 2
+    },
+    {
+        "catid": 11042968,
+        "name": "Additional Accessories",
+        "parent_catid": 11042921,
+        "level": 2
+    },
+    {
+        "catid": 11042976,
+        "name": "Accessories Sets & Packages",
+        "parent_catid": 11042921,
+        "level": 2
+    },
+    {
+        "catid": 11042978,
+        "name": "Precious Metal Jewelries",
+        "parent_catid": 11042921,
+        "level": 2
+    },
+    {
+        "catid": 11042977,
+        "name": "Other Fashion Accessories",
+        "parent_catid": 11042921,
+        "level": 2
+    },
+    {
+        "catid": 11043350,
+        "name": "Mom & Baby",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11043351,
+        "name": "Baby Travel Essentials",
+        "parent_catid": 11043350,
+        "level": 2
+    },
+    {
+        "catid": 11043360,
+        "name": "Feeding Untensils & Accessories",
+        "parent_catid": 11043350,
+        "level": 2
+    },
+    {
+        "catid": 11043369,
+        "name": "Bottle-feeding",
+        "parent_catid": 11043350,
+        "level": 2
+    },
+    {
+        "catid": 11043375,
+        "name": "Breastfeeding",
+        "parent_catid": 11043350,
+        "level": 2
+    },
+    {
+        "catid": 11043381,
+        "name": "Maternity Accessories",
+        "parent_catid": 11043350,
+        "level": 2
+    },
+    {
+        "catid": 11043385,
+        "name": "Maternity Healthcare",
+        "parent_catid": 11043350,
+        "level": 2
+    },
+    {
+        "catid": 11043390,
+        "name": "Baby Health & Care",
+        "parent_catid": 11043350,
+        "level": 2
+    },
+    {
+        "catid": 11043404,
+        "name": "Bath Untensils & Accessories",
+        "parent_catid": 11043350,
+        "level": 2
+    },
+    {
+        "catid": 11043411,
+        "name": "Nursery",
+        "parent_catid": 11043350,
+        "level": 2
+    },
+    {
+        "catid": 11043420,
+        "name": "Baby Safety",
+        "parent_catid": 11043350,
+        "level": 2
+    },
+    {
+        "catid": 11043428,
+        "name": "Milk Formula & Baby Food",
+        "parent_catid": 11043350,
+        "level": 2
+    },
+    {
+        "catid": 11043433,
+        "name": "Diapering & Potty",
+        "parent_catid": 11043350,
+        "level": 2
+    },
+    {
+        "catid": 11043439,
+        "name": "Toys",
+        "parent_catid": 11043350,
+        "level": 2
+    },
+    {
+        "catid": 11043449,
+        "name": "Gift Sets & Packages",
+        "parent_catid": 11043350,
+        "level": 2
+    },
+    {
+        "catid": 11043450,
+        "name": "Other Mom & Baby",
+        "parent_catid": 11043350,
+        "level": 2
+    },
+    {
+        "catid": 11042900,
+        "name": "Watches",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11042901,
+        "name": "Women Watches",
+        "parent_catid": 11042900,
+        "level": 2
+    },
+    {
+        "catid": 11042905,
+        "name": "Men Watches",
+        "parent_catid": 11042900,
+        "level": 2
+    },
+    {
+        "catid": 11042909,
+        "name": "Set & Couple Watches",
+        "parent_catid": 11042900,
+        "level": 2
+    },
+    {
+        "catid": 11042913,
+        "name": "Watches Accessories",
+        "parent_catid": 11042900,
+        "level": 2
+    },
+    {
+        "catid": 11042920,
+        "name": "Other Watches",
+        "parent_catid": 11042900,
+        "level": 2
+    },
+    {
+        "catid": 11042604,
+        "name": "Women Shoes",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11042605,
+        "name": "Boots",
+        "parent_catid": 11042604,
+        "level": 2
+    },
+    {
+        "catid": 11042609,
+        "name": "Sneakers",
+        "parent_catid": 11042604,
+        "level": 2
+    },
+    {
+        "catid": 11042610,
+        "name": "Ballet Flats",
+        "parent_catid": 11042604,
+        "level": 2
+    },
+    {
+        "catid": 11042615,
+        "name": "Loafers & Boat Shoes",
+        "parent_catid": 11042604,
+        "level": 2
+    },
+    {
+        "catid": 11042616,
+        "name": "Oxfords & Lace-Ups",
+        "parent_catid": 11042604,
+        "level": 2
+    },
+    {
+        "catid": 11042617,
+        "name": "Slip Ons, Mary Janes & Mules",
+        "parent_catid": 11042604,
+        "level": 2
+    },
+    {
+        "catid": 11042618,
+        "name": "Heels",
+        "parent_catid": 11042604,
+        "level": 2
+    },
+    {
+        "catid": 11042623,
+        "name": "Wedges",
+        "parent_catid": 11042604,
+        "level": 2
+    },
+    {
+        "catid": 11042624,
+        "name": "Flat Sandals & Flip Flops",
+        "parent_catid": 11042604,
+        "level": 2
+    },
+    {
+        "catid": 11042630,
+        "name": "Shoe Care & Accessories",
+        "parent_catid": 11042604,
+        "level": 2
+    },
+    {
+        "catid": 11042637,
+        "name": "Socks & Stockings",
+        "parent_catid": 11042604,
+        "level": 2
+    },
+    {
+        "catid": 11042641,
+        "name": "Other Women Shoes",
+        "parent_catid": 11042604,
+        "level": 2
+    },
+    {
+        "catid": 11043279,
+        "name": "Health",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11043331,
+        "name": "Feminine Care",
+        "parent_catid": 11043279,
+        "level": 2
+    },
+    {
+        "catid": 11043339,
+        "name": "Sexual Wellness",
+        "parent_catid": 11043279,
+        "level": 2
+    },
+    {
+        "catid": 11043346,
+        "name": "Eye Care",
+        "parent_catid": 11043279,
+        "level": 2
+    },
+    {
+        "catid": 11043280,
+        "name": "Food Supplement",
+        "parent_catid": 11043279,
+        "level": 2
+    },
+    {
+        "catid": 11043288,
+        "name": "Medicine & Medical Supplies",
+        "parent_catid": 11043279,
+        "level": 2
+    },
+    {
+        "catid": 11043296,
+        "name": "Health Monitors & Tests",
+        "parent_catid": 11043279,
+        "level": 2
+    },
+    {
+        "catid": 11043302,
+        "name": "First Aid Supplies",
+        "parent_catid": 11043279,
+        "level": 2
+    },
+    {
+        "catid": 11043308,
+        "name": "Injury & Disability Support",
+        "parent_catid": 11043279,
+        "level": 2
+    },
+    {
+        "catid": 11043314,
+        "name": "Insect Repellents",
+        "parent_catid": 11043279,
+        "level": 2
+    },
+    {
+        "catid": 11043315,
+        "name": "Adult Diapers & Incontinence",
+        "parent_catid": 11043279,
+        "level": 2
+    },
+    {
+        "catid": 11043316,
+        "name": "Hand Sanitizers",
+        "parent_catid": 11043279,
+        "level": 2
+    },
+    {
+        "catid": 11043317,
+        "name": "Essential Oil",
+        "parent_catid": 11043279,
+        "level": 2
+    },
+    {
+        "catid": 11043318,
+        "name": "Nasal Care",
+        "parent_catid": 11043279,
+        "level": 2
+    },
+    {
+        "catid": 11043319,
+        "name": "Ear Care",
+        "parent_catid": 11043279,
+        "level": 2
+    },
+    {
+        "catid": 11043345,
+        "name": "Other Health",
+        "parent_catid": 11043279,
+        "level": 2
+    },
+    {
+        "catid": 11042642,
+        "name": "Women Bags",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11042643,
+        "name": "Backpacks",
+        "parent_catid": 11042642,
+        "level": 2
+    },
+    {
+        "catid": 11042644,
+        "name": "Drawstring Bags",
+        "parent_catid": 11042642,
+        "level": 2
+    },
+    {
+        "catid": 11042645,
+        "name": "Laptop Bags",
+        "parent_catid": 11042642,
+        "level": 2
+    },
+    {
+        "catid": 11042650,
+        "name": "Clutches & Wristlets",
+        "parent_catid": 11042642,
+        "level": 2
+    },
+    {
+        "catid": 11042651,
+        "name": "Waist Bags & Chest Bags",
+        "parent_catid": 11042642,
+        "level": 2
+    },
+    {
+        "catid": 11042652,
+        "name": "Tote Bags",
+        "parent_catid": 11042642,
+        "level": 2
+    },
+    {
+        "catid": 11042655,
+        "name": "Top-handle Bags",
+        "parent_catid": 11042642,
+        "level": 2
+    },
+    {
+        "catid": 11042656,
+        "name": "Crossbody & Shoulder Bags",
+        "parent_catid": 11042642,
+        "level": 2
+    },
+    {
+        "catid": 11042657,
+        "name": "Wallets",
+        "parent_catid": 11042642,
+        "level": 2
+    },
+    {
+        "catid": 11042664,
+        "name": "Bag Accessories",
+        "parent_catid": 11042642,
+        "level": 2
+    },
+    {
+        "catid": 11042672,
+        "name": "Travel & Luggage",
+        "parent_catid": 11042642,
+        "level": 2
+    },
+    {
+        "catid": 11042671,
+        "name": "Other Women Bags",
+        "parent_catid": 11042642,
+        "level": 2
+    },
+    {
+        "catid": 11043572,
+        "name": "Hobby & Collection",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11043584,
+        "name": "Pet Accessories",
+        "parent_catid": 11043572,
+        "level": 2
+    },
+    {
+        "catid": 11043596,
+        "name": "Litter & Toilet",
+        "parent_catid": 11043572,
+        "level": 2
+    },
+    {
+        "catid": 11043603,
+        "name": "Pet Grooming",
+        "parent_catid": 11043572,
+        "level": 2
+    },
+    {
+        "catid": 11043608,
+        "name": "Pet Clothing & Accessories",
+        "parent_catid": 11043572,
+        "level": 2
+    },
+    {
+        "catid": 11043617,
+        "name": "Pet Healthcare",
+        "parent_catid": 11043572,
+        "level": 2
+    },
+    {
+        "catid": 11043573,
+        "name": "Pet Food",
+        "parent_catid": 11043572,
+        "level": 2
+    },
+    {
+        "catid": 11043622,
+        "name": "Collectible Items",
+        "parent_catid": 11043572,
+        "level": 2
+    },
+    {
+        "catid": 11043633,
+        "name": "Toys & Games",
+        "parent_catid": 11043572,
+        "level": 2
+    },
+    {
+        "catid": 11043647,
+        "name": "CD, DVD & Bluray",
+        "parent_catid": 11043572,
+        "level": 2
+    },
+    {
+        "catid": 11043648,
+        "name": "Musical Instruments & Accessories",
+        "parent_catid": 11043572,
+        "level": 2
+    },
+    {
+        "catid": 11043656,
+        "name": "Vinyl Records",
+        "parent_catid": 11043572,
+        "level": 2
+    },
+    {
+        "catid": 11043657,
+        "name": "Photo Albums",
+        "parent_catid": 11043572,
+        "level": 2
+    },
+    {
+        "catid": 11043658,
+        "name": "Needlework",
+        "parent_catid": 11043572,
+        "level": 2
+    },
+    {
+        "catid": 11043659,
+        "name": "Other Hobby & Collection",
+        "parent_catid": 11043572,
+        "level": 2
+    },
+    {
+        "catid": 11043660,
+        "name": "Automotive",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11043661,
+        "name": "Automobiles",
+        "parent_catid": 11043660,
+        "level": 2
+    },
+    {
+        "catid": 11043662,
+        "name": "Automobile Interior Accessories",
+        "parent_catid": 11043660,
+        "level": 2
+    },
+    {
+        "catid": 11043681,
+        "name": "Automobile Exterior Accessories",
+        "parent_catid": 11043660,
+        "level": 2
+    },
+    {
+        "catid": 11043693,
+        "name": "Automobile Spare Parts",
+        "parent_catid": 11043660,
+        "level": 2
+    },
+    {
+        "catid": 11043714,
+        "name": "Automotive Tools",
+        "parent_catid": 11043660,
+        "level": 2
+    },
+    {
+        "catid": 11043718,
+        "name": "Automotive Care",
+        "parent_catid": 11043660,
+        "level": 2
+    },
+    {
+        "catid": 11043725,
+        "name": "Automotive Oils & Lubes",
+        "parent_catid": 11043660,
+        "level": 2
+    },
+    {
+        "catid": 11043733,
+        "name": "Automotive Keychains & Key Covers",
+        "parent_catid": 11043660,
+        "level": 2
+    },
+    {
+        "catid": 11043734,
+        "name": "Motorcycles",
+        "parent_catid": 11043660,
+        "level": 2
+    },
+    {
+        "catid": 11043735,
+        "name": "Motorcycle Accessories",
+        "parent_catid": 11043660,
+        "level": 2
+    },
+    {
+        "catid": 11043747,
+        "name": "Motorcycle Spare Parts",
+        "parent_catid": 11043660,
+        "level": 2
+    },
+    {
+        "catid": 11043770,
+        "name": "Motorcycle Rider Accessories",
+        "parent_catid": 11043660,
+        "level": 2
+    },
+    {
+        "catid": 11043776,
+        "name": "E-Money & Accessories",
+        "parent_catid": 11043660,
+        "level": 2
+    },
+    {
+        "catid": 11043777,
+        "name": "Other Automotive",
+        "parent_catid": 11043660,
+        "level": 2
+    },
+    {
+        "catid": 11043958,
+        "name": "Sports & Outdoor",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11044100,
+        "name": "Kid's Sports Apparel",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11044101,
+        "name": "Sports & Outdoor Accessories",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11044113,
+        "name": "Boardsports",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11043959,
+        "name": "Fishing",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11043968,
+        "name": "Cycling",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11043974,
+        "name": "Camping & Hiking",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11043987,
+        "name": "Rock Climbing",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11043988,
+        "name": "Archery",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11043992,
+        "name": "Soccer, Futsal & Sepak Takraw",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11043999,
+        "name": "Basketball",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11044004,
+        "name": "Volleyball",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11044008,
+        "name": "Badminton",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11044013,
+        "name": "Tennis",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11044019,
+        "name": "Table Tennis",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11044024,
+        "name": "Boxing & Martial Arts",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11044031,
+        "name": "Golf",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11044038,
+        "name": "Baseball & Softball",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11044039,
+        "name": "Squash",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11044040,
+        "name": "Rugby",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11044041,
+        "name": "Billiards",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11044042,
+        "name": "Surfing & Wakeboarding",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11044043,
+        "name": "Ice Skating & Winter Sports",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11044044,
+        "name": "Swimming & Diving",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11044060,
+        "name": "Boating",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11044061,
+        "name": "Yoga & Pilates",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11044066,
+        "name": "Fitness Equipment",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11044074,
+        "name": "Darts",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11044075,
+        "name": "Sports Footwear",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11044087,
+        "name": "Men Sport Apparel",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11044093,
+        "name": "Women Sport Apparel",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11044112,
+        "name": "Other Sports & Outdoor",
+        "parent_catid": 11043958,
+        "level": 2
+    },
+    {
+        "catid": 11044123,
+        "name": "Stationery & Books",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11044124,
+        "name": "Writing & Correction",
+        "parent_catid": 11044123,
+        "level": 2
+    },
+    {
+        "catid": 11044131,
+        "name": "School & Office Equipment",
+        "parent_catid": 11044123,
+        "level": 2
+    },
+    {
+        "catid": 11044149,
+        "name": "Folders, Paper Organizers & Accessories",
+        "parent_catid": 11044123,
+        "level": 2
+    },
+    {
+        "catid": 11044155,
+        "name": "Art Supplies",
+        "parent_catid": 11044123,
+        "level": 2
+    },
+    {
+        "catid": 11044166,
+        "name": "Notebooks & Papers",
+        "parent_catid": 11044123,
+        "level": 2
+    },
+    {
+        "catid": 11044177,
+        "name": "Letters & Envelopes",
+        "parent_catid": 11044123,
+        "level": 2
+    },
+    {
+        "catid": 11044182,
+        "name": "Bubble Wraps",
+        "parent_catid": 11044123,
+        "level": 2
+    },
+    {
+        "catid": 11044183,
+        "name": "Magazines & Newspaper",
+        "parent_catid": 11044123,
+        "level": 2
+    },
+    {
+        "catid": 11044188,
+        "name": "Children's Books",
+        "parent_catid": 11044123,
+        "level": 2
+    },
+    {
+        "catid": 11044191,
+        "name": "Educational Books",
+        "parent_catid": 11044123,
+        "level": 2
+    },
+    {
+        "catid": 11044197,
+        "name": "Non-Fiction Books",
+        "parent_catid": 11044123,
+        "level": 2
+    },
+    {
+        "catid": 11044213,
+        "name": "Fiction Books",
+        "parent_catid": 11044123,
+        "level": 2
+    },
+    {
+        "catid": 11044218,
+        "name": "Comics & Manga",
+        "parent_catid": 11044123,
+        "level": 2
+    },
+    {
+        "catid": 11044223,
+        "name": "E-Books",
+        "parent_catid": 11044123,
+        "level": 2
+    },
+    {
+        "catid": 11044224,
+        "name": "Other Stationery & Books",
+        "parent_catid": 11044123,
+        "level": 2
+    },
+    {
+        "catid": 11116633,
+        "name": "Souvenir & Party Supplies",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11116625,
+        "name": "Party Supplies",
+        "parent_catid": 11116633,
+        "level": 2
+    },
+    {
+        "catid": 11044245,
+        "name": "Gift Wrapping & Packaging",
+        "parent_catid": 11116633,
+        "level": 2
+    },
+    {
+        "catid": 11116634,
+        "name": "Souvenirs & Gift",
+        "parent_catid": 11116633,
+        "level": 2
+    },
+    {
+        "catid": 11116635,
+        "name": "Balloons",
+        "parent_catid": 11116633,
+        "level": 2
+    },
+    {
+        "catid": 11044253,
+        "name": "Flowers",
+        "parent_catid": 11116633,
+        "level": 2
+    },
+    {
+        "catid": 11044588,
+        "name": "Photography",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11044589,
+        "name": "Cameras",
+        "parent_catid": 11044588,
+        "level": 2
+    },
+    {
+        "catid": 11044610,
+        "name": "Lighting & Studio Equipments",
+        "parent_catid": 11044588,
+        "level": 2
+    },
+    {
+        "catid": 11044611,
+        "name": "Photo Films & Papers",
+        "parent_catid": 11044588,
+        "level": 2
+    },
+    {
+        "catid": 11044612,
+        "name": "Photo Printers",
+        "parent_catid": 11044588,
+        "level": 2
+    },
+    {
+        "catid": 11044613,
+        "name": "Camera Cases & Bags",
+        "parent_catid": 11044588,
+        "level": 2
+    },
+    {
+        "catid": 11044614,
+        "name": "Battery Chargers",
+        "parent_catid": 11044588,
+        "level": 2
+    },
+    {
+        "catid": 11044615,
+        "name": "Batteries & Battery Grips",
+        "parent_catid": 11044588,
+        "level": 2
+    },
+    {
+        "catid": 11044616,
+        "name": "Tripods, Monopods, & Accessories",
+        "parent_catid": 11044588,
+        "level": 2
+    },
+    {
+        "catid": 11044617,
+        "name": "Memory Cards",
+        "parent_catid": 11044588,
+        "level": 2
+    },
+    {
+        "catid": 11044619,
+        "name": "Camera Care",
+        "parent_catid": 11044588,
+        "level": 2
+    },
+    {
+        "catid": 11044626,
+        "name": "Drones & Accessories",
+        "parent_catid": 11044588,
+        "level": 2
+    },
+    {
+        "catid": 11044630,
+        "name": "Gimbals & Stabilizers",
+        "parent_catid": 11044588,
+        "level": 2
+    },
+    {
+        "catid": 11044598,
+        "name": "Lenses & Accessories",
+        "parent_catid": 11044588,
+        "level": 2
+    },
+    {
+        "catid": 11044605,
+        "name": "Flash & Accessories",
+        "parent_catid": 11044588,
+        "level": 2
+    },
+    {
+        "catid": 11044629,
+        "name": "Other Photography",
+        "parent_catid": 11044588,
+        "level": 2
+    },
+    {
+        "catid": 11044669,
+        "name": "Shopee Gifts",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11044631,
+        "name": "Vouchers",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11044632,
+        "name": "Event Ticket",
+        "parent_catid": 11044631,
+        "level": 2
+    },
+    {
+        "catid": 11044635,
+        "name": "Shopping Vouchers",
+        "parent_catid": 11044631,
+        "level": 2
+    },
+    {
+        "catid": 11044642,
+        "name": "Mobile Data",
+        "parent_catid": 11044631,
+        "level": 2
+    },
+    {
+        "catid": 11044648,
+        "name": "Mobile Top-ups & Pre-paid",
+        "parent_catid": 11044631,
+        "level": 2
+    },
+    {
+        "catid": 11044654,
+        "name": "Travel & Tour",
+        "parent_catid": 11044631,
+        "level": 2
+    },
+    {
+        "catid": 11044658,
+        "name": "Gaming",
+        "parent_catid": 11044631,
+        "level": 2
+    },
+    {
+        "catid": 11044666,
+        "name": "Shopee",
+        "parent_catid": 11044631,
+        "level": 2
+    },
+    {
+        "catid": 11105951,
+        "name": "ShopeePay Near Me",
+        "parent_catid": null,
+        "level": 1
+    },
+    {
+        "catid": 11105952,
+        "name": "ShopeePay Voucher",
+        "parent_catid": 11105951,
+        "level": 2
+    },
+    {
+        "catid": 11105953,
+        "name": "Deals Voucher",
+        "parent_catid": 11105951,
+        "level": 2
+    }
+]
