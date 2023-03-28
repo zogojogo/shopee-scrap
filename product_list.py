@@ -7,13 +7,14 @@ import time
 import json
 from faker import Faker
 
-count = 11001
+count = 17250 + 1
 
 def get_product_per_category(driver, category_url):
     global count
     driver.get(category_url)
     products = []
-    for i in range (0, 9):
+    total_page = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '.shopee-mini-page-controller__total'))).text
+    for i in range (0, int(total_page)):
         wait = WebDriverWait(driver, 10)
         wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, '.col-xs-2-4.shopee-search-item-result__item')))
 
@@ -21,7 +22,7 @@ def get_product_per_category(driver, category_url):
         browser_window_height = driver.get_window_size(windowHandle='current')['height']
         current_position = driver.execute_script('return window.pageYOffset')
         while total_page_height - current_position > browser_window_height:
-            time.sleep(1)
+            time.sleep(0.5)
             driver.execute_script(f"window.scrollTo({current_position}, {browser_window_height + current_position});")
             current_position = driver.execute_script('return window.pageYOffset')
 
@@ -42,7 +43,8 @@ def get_product_per_category(driver, category_url):
             product_data = {'id': count, 'title': name_text, 'image_urls': [image_url], 'category_ids' : [category_id], 'description': description}
             products.append(product_data)
             count += 1
-        driver.get(f'{category_url}?page={i+1}')
+        if i < int(total_page) - 1:
+            driver.get(f'{category_url}?page={i+1}')
     return products
 
 if __name__ == '__main__':
